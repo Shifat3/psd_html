@@ -1,0 +1,173 @@
+body {
+	margin: 0;
+}
+
+.header-area {
+	background-image: url('img/Fitness-header.jpg');
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.logo {
+	padding-top: 20px ;
+}
+
+.menu {
+
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: right;
+
+}
+
+ul li {
+	display: inline-block;
+
+}
+
+ul li a {
+	display: block;
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: 400;
+	padding: 10px;
+
+}
+
+.hd-title {
+	padding-top: 450px;
+	padding-bottom: 70px;
+	color: #fff;
+}
+
+.hd-title p {
+	text-align: right;
+}
+
+.service-area {
+	background-color: #a2ca28;
+	color: #fff;
+	padding-top: 70px;
+}
+
+.raw1 {
+	padding-bottom: 70px;
+}
+
+.service-img {
+	color: #000;
+}
+
+.fitness-text {
+	background-image: url('img/Fitness-first.jpg');
+
+}
+
+.service-content {
+	text-align: center;
+	padding: 20px!important;
+}
+
+.service-content h2 {
+	text-transform: uppercase;
+	font-size: 20px;
+}
+
+.service-content h6 {
+	padding-top: 10px;
+	color: #e81313;
+}
+
+.fitness-text {
+	padding-top: 300px;
+	padding-bottom: 30px;
+	text-align: right;
+	color: #fff;
+}
+
+.watch  {
+	background-image: url('img/Fitness-watch.jpg');
+}
+
+.watch .user {
+	padding-top: 250px;
+	padding-bottom: 30px;
+
+}
+
+.love {
+	background-color: #fff;
+	padding: 50px;
+	text-align: center;
+	padding-bottom: 68px;
+}
+
+.summer {
+	background-color: #fd634e;
+}
+
+.summer .walking {
+	background-image: url('img/Fitness-walking.jpg');
+	min-height: 300px;
+}
+
+.beach {
+	background-image: url('img/bech.jpg');
+}
+
+.beac-text h5 {
+	padding: 20px;
+}
+
+.leader {
+	background-image: url('img/Fitness-leader.jpg');
+	-webkit-background-size: cover;
+	background-size: cover;
+	clip-path: polygon(51% 100%, 100% 85%, 100% 0, 0 0, 0 86%);
+
+
+
+}
+
+.leader .leader_content {
+	padding: 220px;
+	text-align: center;
+	color: #fff;
+
+}
+
+.footer-area {
+	background-color: #000;
+	color: #fff;
+	margin-top: -100px;
+	padding-top: 100px;
+}
+
+.footer_content {
+	padding:  100px 0;
+}
+
+.footer_content input {
+	padding: 10px;
+}
+
+.footer_content button {
+	background-color: #a2ca28;
+	padding: 10px;
+	border: none;
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
